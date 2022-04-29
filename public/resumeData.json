@@ -1,0 +1,174 @@
+{
+  "main": {
+    "name": "Rahul Kumar",
+    "occupation": "WEB DEVELOPER",
+    "description": "I eat, sleep, breath and React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Rahul! You might also know me as FrontEnd Web Developer. I've been coding for over 6 months now. As of now I'am willing and excited to work with both startups and large corporations to build & scale their companies. Along the journey I realised my passion existed in helping and pursue my dreams as upcoming developers. With this passion, as of now I have done some projects related to HTML5, CSS3, Javascript and Reactjs. I will deliver REAL VALUE by giving my best to the projects and solves the problems that will help me to enter the world of web development.",
+    "contactmessage": "Get in touch with me",
+    "email": "rahulbarnwalonlyu2@gmail.com",
+    "phone": "+91 7903113564",
+    "address": {
+      "street": "Veracious Sonesta",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560017"
+    },
+    "website": "https://www.linkedin.com/in/rahul-kumar-barnwal-34423714a/",
+    "resumedownload": "https://drive.google.com/file/d/1Qgq8i2VjcB5mK5qgsf_EtbVoCl1FHK8T/view?usp=drivesdk",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://www.linkedin.com/in/rahul-kumar-barnwal-34423714a/",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.linkedin.com/in/rahul-kumar-barnwal-34423714a/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rahul-kumar-barnwal-34423714a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.linkedin.com/in/rahul-kumar-barnwal-34423714a/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/rahulgithub-web",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "college": "Ramgovind Institute of Technology Koderma - Jharkhand",
+        "degree": "Bachelor's Degree, Electronics and Communication",
+        "graduated": "December 2020",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "project": "QrCode Genarator",
+        "title": "using Reactjs",
+        "year": "April 2022",
+        "description": "In this project i have created a input box where users can store data and can easily generate QrCode and also users can download the QrCode by just clicking on Download button"
+      },
+      {
+        "project": "Portfolio Website Design",
+        "title": "using css and html",
+        "year": "Jan 2022",
+        "description": "After Developing my skills on Web Development I made a Portfolio Website Design which is completely based on HTML and CSS."
+      },
+      {
+        "project": "Restaurant Website",
+        "title": "using css and html",
+        "year": "Jan 2022",
+        "description": "This Project is completely responsive and easy to use."
+      },
+      {
+        "project": "University Website",
+        "title": "using css, html and Javascript",
+        "year": "Jan 2022",
+        "description": "Multi Page University Website Design which is completely based on HTML, CSS and Javascript. In this project i have created a five different web pages and all this web pages have been linked through a Navigation Menu."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS3",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Reactjs",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "QrCode Generator using (Reactjs)",
+        "category": "Reactjs(API)",
+        "image": "QRCODEGenerator.jpg",
+        "url": "https://github.com/rahulgithub-web/Qr_Code_Generator"
+      },
+      {
+        "title": "GithubUsers using (Reactjs)",
+        "category": "Reactjs(API)",
+        "image": "Github_users.jpg",
+        "url": "https://optimistic-leakey-7a72f2.netlify.app/"
+      },
+      {
+        "title": "Registration Form (React JS)",
+        "category": "Reactjs",
+        "image": "Form_Validation.jpg",
+        "url": "https://github.com/rahulgithub-web?tab=repositories"
+      },
+      {
+        "title": "Receipe_Finder_App (React JS)",
+        "category": "Reactjs(API)",
+        "image": "receipe_finder_app.jpg",
+        "url": "https://github.com/rahulgithub-web?tab=repositories"
+      },
+      {
+        "title": "PhotoGallery using Reactjs",
+        "category": "Reactjs(API)",
+        "image": "FilterGallery.jpg",
+        "url": "https://optimistic-leakey-7a72f2.netlify.app/"
+      },
+      {
+        "title": "Todo_App using Reactjs",
+        "category": "Reactjs",
+        "image": "ToDo.jpg",
+        "url": "https://optimistic-leakey-7a72f2.netlify.app/"
+      },
+      {
+        "title": "University Website using Javascript",
+        "category": "Javascript",
+        "image": "UniversityWebsite.jpg",
+        "url": "https://621354f0f3e7b5005f93c672--boring-einstein-8ba685.netlify.app/index.html"
+      },
+      {
+        "title": "Digital Clock using Javascript",
+        "category": "Javascript",
+        "image": "DigitalClock.jpg",
+        "url": "https://6213574a17cc950a4fd63025--fervent-banach-dc75e6.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I always believe in self learning and smart work.",
+        "user": "Rahul Kumar" 
+      },
+      {
+        "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "user": " Martin Fowler"
+      },
+      {
+        "text": "Experience is the name everyone gives to their mistakes.",
+        "user": "Oscar Wilde"
+      }
+    ]
+  }
+}
