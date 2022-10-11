@@ -4,7 +4,7 @@
     "occupation": "WEB DEVELOPER",
     "description": "I eat, sleep, breath and React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Rahul! You might also know me as FrontEnd Web Developer. I've been coding for over 6 months now. As of now I'am willing and excited to work with both startups and large corporations to build & scale their companies. Along the journey I realised my passion existed in helping and pursue my dreams as upcoming developers. With this passion, as of now I have done some projects related to HTML5, CSS3, Javascript and Reactjs. I will deliver REAL VALUE by giving my best to the projects and solves the problems that will help me to enter the world of web development.",
+    "bio": "Hi there! I am Rahul! You might also know me as Backend Web Developer. I am working as a Teaching Assistant in functionUp. I've been coding for over 10 months now. As of now I'am willing and excited to work with both startups and large corporations to build & scale their companies. Along the journey I realised my passion existed in helping and pursue my dreams as upcoming developers. With this passion, as of now I have done some projects related to HTML5, CSS3, Javascript and Reactjs, Nodejs, MongoDB, Expressjs, AWS S3, Redis. I will deliver REAL VALUE by giving my best to the projects and solves the problems that will help me to enter the world of web development.",
     "contactmessage": "Get in touch with me",
     "email": "rahulbarnwalonlyu2@gmail.com",
     "phone": "+91 7903113564",
@@ -15,7 +15,7 @@
       "zip": "560017"
     },
     "website": "https://www.linkedin.com/in/rahul-kumar-barnwal-34423714a/",
-    "resumedownload": "https://drive.google.com/file/d/1Qgq8i2VjcB5mK5qgsf_EtbVoCl1FHK8T/view?usp=drivesdk",
+    "resumedownload": "https://drive.google.com/file/d/1PWECwOECP1Bg8YtiKRIATM23Ju-YEbZS/view?usp=sharing",
     "social": [
       {
         "name": "twitter",
@@ -56,6 +56,42 @@
     ],
     "work": [
       {
+        "project": "Product Managament Ststem(Shopping Cart)",
+        "title": "Javascript, Nodejs, MongoDB, Express, Bycrypt, JsonWebToken, AWS S3", 
+        "year": "August 2022",
+        "description": "We have successfully completed our 5th Project, Shopping Cart, with my teammates Mohit Singh【&】Sagar Samedia. In this project we basically have added 4 features namely User, Product, Cart and Order." 
+      },
+      {
+        "project": "Open To Intern",
+        "title": "Nodejs, MongoDB, Express, Javascript",
+        "year": "July 2022",
+        "description": "𝗢𝗽𝗲𝗻 𝘁𝗼 𝗜𝗻𝘁𝗲𝗿𝗻 𝗣𝗿𝗼𝗷𝗲𝗰𝘁, with my teammates MOHAMMAD WASIF, Mohd Farhan and Monisha Mittal. In this project we basically managed the students who want to apply for the interns in a particular college. There we introduced 3 #apis and have done the authentication, validations using different functions which was executed by mongodb and nodejs ."
+      },
+      {
+        "project": "Book Management System",
+        "title": "Nodejs, MongoDB, Express, Javascript, AWS S3, JWT, Multer",
+        "year": "July 2022",
+        "description": "We have successfully completed our project, 𝗕𝗼𝗼𝗸𝘀 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗦𝘆𝘀𝘁𝗲𝗺, with my teammates Md. Salik Siddiqui , Md Danish Alam and Diksha Bansod Bansod. In this project we basically managed the user, the books and the rewiew which can be given the guest or a genuine user. There we introduced 𝟭𝟬 #apis and have done the #CRUD_operations, validations using different functions which was executed by mongodb and nodejs and have also introduced the authentication and authorization"
+      },
+      {
+        "project": "Scalable Url Shortner",
+        "title": "Nodejs, MongoDB, Express, Javascript, Redis",
+        "year": "July 2022",
+        "description": "We have successfully completed our project, 𝘂𝗿𝗹𝗦𝗵𝗼𝗿𝘁𝗻𝗲𝗿, with my teammates Md Irshad ali 【&】Musharraf Ansari. In this project we basically have to shorten the long Url's and then we also have used #redis to save the particular link in cache memory or to minimize the database call . There we introduced 𝟮 #apis that was defined #express #router function mongodb and nodejs .."
+      },
+      {
+        "project": "Mini Blog Project",
+        "title": "Nodejs, MongoDB, Express, JsonWebToken",
+        "year": "June 2022",
+        "description": "This is a group project where we had to create API's for resgistering a user as a Author login of user with JWT Token for authentication purpose and has has worked on authorization for creating blogs, getting list of blogs, updation and deletion of the blogs."
+      },
+      {
+        "project": "Open To Intern",
+        "title": "Nodejs, MongoDB, Express, Javascript",
+        "year": "June 2022",
+        "description": "𝗢𝗽𝗲𝗻 𝘁𝗼 𝗜𝗻𝘁𝗲𝗿𝗻 𝗣𝗿𝗼𝗷𝗲𝗰𝘁, with my teammates MOHAMMAD WASIF, Mohd Farhan and Monisha Mittal. In this project we basically managed the students who want to apply for the interns in a particular college. There we introduced 3 #apis and have done the authentication, validations using different functions which was executed by mongodb and nodejs ."
+      },
+      {
         "project": "QrCode Genarator",
         "title": "using Reactjs",
         "year": "April 2022",
@@ -91,7 +127,7 @@
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "90%"
       },
       {
         "name": "JavaScript",
@@ -100,6 +136,30 @@
       {
         "name": "Reactjs",
         "level": "60%"
+      },
+      {
+        "name": "Postman", 
+        "level": "90%" 
+      },
+      {
+        "name": "Nodejs",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Expressjs",
+        "level": "90%"
+      },
+      {
+        "name": "AWS S3",
+        "level": "90%"
+      },
+      {
+        "name": "Redis",
+        "level": "70%"
       }
     ]
   },
